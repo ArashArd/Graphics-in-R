@@ -1,7 +1,3 @@
-# Graphics-in-R
-Untitled
-================
-
 # Overview of R graphics
 
 1.  Standard `graphics` in R
