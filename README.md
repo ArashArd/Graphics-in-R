@@ -81,8 +81,32 @@ Violent Crime Rates by US State
 
 Motor Trend Car Road Tests
 
-# Types of Graphs in R
+# Resourses
 
-# `graphics` package: base graphics system
+-   Paul Murrell, R Graphics, 3rd Ed
 
-# Graphical commands
+    -   \[R Code:\]\[ <https://www.stat.auckland.ac.nz/~paul/RG3e/>\]
+
+-   Hadley Wickham, ggplot2: Elegant graphics for data analysis, 2nd Ed.
+    [ggplot2](https://ggplot2.tidyverse.org/)
+
+    <https://ggplot2.tidyverse.org/reference/index.html#plot-basics>
+
+-   Winston Chang, R Graphics Cookbook: Practical Recipes for
+    Visualizing Data [R Graphics
+    Cookbook](http://www.cookbook-r.com/Graphs)
+
+-   Antony Unwin, Graphical Data Analysis with R
+
+    -   \[R code:\]\[<http://www.gradaanwr.net/>\]
+
+## Useful online resouses
+
+-   [R CHARTS](https://r-charts.com/)
+-   [Topic in Computational Data Analysis and
+    Graphics](https://www.stat.auckland.ac.nz/~ihaka/787/slides.html)
+-   [Lattice: Multivariate Data Visualization with R - Figures and
+    Code](http://lmdvr.r-forge.r-project.org/figures/figures.html)
+-   [Data Visualization in
+    R](https://www.datavis.ca/courses/RGraphics/index.html)
+
