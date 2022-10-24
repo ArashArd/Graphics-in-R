@@ -81,6 +81,10 @@ Violent Crime Rates by US State
 
 Motor Trend Car Road Tests
 
+
+# Presentation 
+[Graphics in R: pdf][https://github.com/ArashArd/Graphics-in-R/blob/main/GWR1_For_MP_24.pdf]
+
 # Resourses
 
 -   Paul Murrell, R Graphics, 3rd Ed
